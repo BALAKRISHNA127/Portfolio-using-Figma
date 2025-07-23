@@ -11,7 +11,7 @@ You can always customize this later depending on your exact tech stack or hostin
 
 This is a personal portfolio website designed to showcase my skills, projects, and experience as a web developer. The design was created using Figma and serves as the blueprint for a modern, responsive, and professional online presence.
 
-![Portfolio Preview](https://www.figma.com/design/fECPSh3Vl86MNkdr8k4O3e/project-2---Portfolio?node-id=0-1&p=f&t=Mbyf1WfLMZtnWAp3-0) <!-- Replace with an actual screenshot or image URL -->
+[Portfolio Preview](https://www.figma.com/design/fECPSh3Vl86MNkdr8k4O3e/project-2---Portfolio?node-id=0-1&p=f&t=Mbyf1WfLMZtnWAp3-0) <!-- Replace with an actual screenshot or image URL -->
 
 ## 🎯 Purpose
 
@@ -73,7 +73,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-**Your Name** – [@BALAKRISHNA127](https://github.com/BALAKRISHNA127)
+**Your Name** – [BALAKRISHNA127](https://github.com/BALAKRISHNA127)
 Portfolio: [portfolio](https://www.figma.com/design/fECPSh3Vl86MNkdr8k4O3e/project-2---Portfolio?node-id=0-1&p=f&t=Mbyf1WfLMZtnWAp3-0)
 
 ---
