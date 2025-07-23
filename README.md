@@ -77,7 +77,7 @@ npm run dev
 
 ## 🖼 Design
 
-The original design was made in **Figma**. You can view or duplicate it [here](figma-file-link).
+The original design was made in **Figma**. You can view or duplicate it [here](https://www.figma.com/design/fECPSh3Vl86MNkdr8k4O3e/project-2---Portfolio?node-id=0-1&p=f&t=Mbyf1WfLMZtnWAp3-0).
 
 > *(Replace with a share link if you want to make the design public)*
 
@@ -91,14 +91,14 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-**Your Name** – [@yourhandle](https://yourwebsite.com)
-Portfolio: [yourwebsite.com](https://yourwebsite.com)
+**Your Name** – [@BALAKRISHNA127](https://github.com/BALAKRISHNA127)
+Portfolio: (https://www.figma.com/design/fECPSh3Vl86MNkdr8k4O3e/project-2---Portfolio?node-id=0-1&p=f&t=Mbyf1WfLMZtnWAp3-0)
 
 ---
 
 ## 📫 Contact
 
-If you’d like to collaborate, reach out via \[your email or LinkedIn].
+If you’d like to collaborate, reach out via \[www.linkedin.com/in/kodurubalakrishna].
 
 ```
 
