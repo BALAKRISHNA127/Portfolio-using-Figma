@@ -11,7 +11,7 @@ You can always customize this later depending on your exact tech stack or hostin
 
 This is a personal portfolio website designed to showcase my skills, projects, and experience as a web developer. The design was created using Figma and serves as the blueprint for a modern, responsive, and professional online presence.
 
-![Portfolio Preview](preview-image-url) <!-- Replace with an actual screenshot or image URL -->
+![Portfolio Preview](https://www.figma.com/design/fECPSh3Vl86MNkdr8k4O3e/project-2---Portfolio?node-id=0-1&p=f&t=Mbyf1WfLMZtnWAp3-0) <!-- Replace with an actual screenshot or image URL -->
 
 ## 🎯 Purpose
 
@@ -47,16 +47,6 @@ Planned tech stack (modifiable):
 
 ---
 
-## 🚀 Deployment
-
-Once developed, the site will be deployed via:
-
-- [Vercel](https://vercel.com/)
-- OR [GitHub Pages](https://pages.github.com/)
-- OR [Netlify](https://www.netlify.com/)
-
----
-
 ## 📦 Getting Started (after code implementation)
 
 ```bash
@@ -75,14 +65,6 @@ npm run dev
 
 ---
 
-## 🖼 Design
-
-The original design was made in **Figma**. You can view or duplicate it [here](https://www.figma.com/design/fECPSh3Vl86MNkdr8k4O3e/project-2---Portfolio?node-id=0-1&p=f&t=Mbyf1WfLMZtnWAp3-0).
-
-> *(Replace with a share link if you want to make the design public)*
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -92,13 +74,13 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙋‍♂️ Author
 
 **Your Name** – [@BALAKRISHNA127](https://github.com/BALAKRISHNA127)
-Portfolio: (https://www.figma.com/design/fECPSh3Vl86MNkdr8k4O3e/project-2---Portfolio?node-id=0-1&p=f&t=Mbyf1WfLMZtnWAp3-0)
+Portfolio: [portfolio](https://www.figma.com/design/fECPSh3Vl86MNkdr8k4O3e/project-2---Portfolio?node-id=0-1&p=f&t=Mbyf1WfLMZtnWAp3-0)
 
 ---
 
 ## 📫 Contact
 
-If you’d like to collaborate, reach out via \[www.linkedin.com/in/kodurubalakrishna].
+If you’d like to collaborate, reach out via \[LINKEDIN](www.linkedin.com/in/kodurubalakrishna).
 
 ```
 
